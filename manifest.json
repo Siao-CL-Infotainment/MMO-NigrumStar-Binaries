@@ -1,8 +1,8 @@
 {
  "format": 1,
- "sequence": 1,
- "version": "2026.10.05.1",
- "published_at": "2026-10-05T19:24:56Z",
+ "sequence": 2,
+ "version": "2026.10.05.2",
+ "published_at": "2026-10-06T02:22:43Z",
  "platforms": {
   "linux.x86_64": {
    "launch": "nigrum_star.x86_64",
@@ -17,8 +17,14 @@
     {
      "path": "nigrum_star.pck",
      "source": "linux-nigrum_star.pck",
-     "size": 4644012,
-     "sha256": "2926c1efeac9e686974b9393aa53f20b4d324eaacfdb3e72dfe0876116026272"
+     "size": 6099772,
+     "sha256": "477031dc5611482d587d7e02bda096376fd2ce77b04be1f996852fac3b066422"
+    },
+    {
+     "path": "THIRD_PARTY_LICENSES.txt",
+     "source": "THIRD_PARTY_LICENSES.txt",
+     "size": 107553,
+     "sha256": "826ab8d0b36e3524c8929d95a545138d3a2fa91ffd555218b7a377ee6cd4bf83"
     }
    ]
   },
@@ -35,8 +41,14 @@
     {
      "path": "nigrum_star.pck",
      "source": "windows-nigrum_star.pck",
-     "size": 4644012,
-     "sha256": "8208ce0d3434644d64737fddfd3cbed87f4cafec0392eafa32f5320dabb8997f"
+     "size": 6099772,
+     "sha256": "00693915523dcdc260968c0e1acefb3e24be7a99b9dbc16a4b56b07394dc0045"
+    },
+    {
+     "path": "THIRD_PARTY_LICENSES.txt",
+     "source": "THIRD_PARTY_LICENSES.txt",
+     "size": 107553,
+     "sha256": "826ab8d0b36e3524c8929d95a545138d3a2fa91ffd555218b7a377ee6cd4bf83"
     }
    ]
   }
